@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       3e1740f5-fc1e-4725-8a51-c262fe013ad7
+:END:
+#+title: auctex basics
+#+filetags: :emacs:auctex:
+
+* Resrouces
+[cite:@n.nSimpletonGuideTeX2012]
+
+* Libs
+
+** Reftex
+- used for managing citations within latex docs

@@ -1,0 +1,31 @@
+\contentsline {section}{\numberline {1}Printers}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Prusa MK3s+ \url {https://www.prusa3d.com/product/original-prusa-i3-mk3s-kit-3/}}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Pros}{1}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Cons}{1}{subsubsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.2}Pulse 3D Printer \url {https://www.matterhackers.com/store/l/pulse-3d-printer/sk/MH4C92XW?aff=7512}}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Ender 3 S1 Pro \url {https://www.creality3dofficial.com/products/ender-3s1-pro-3d-printer}}{1}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Components}{1}{section.2}%
+\contentsline {section}{\numberline {3}Rating}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Hot Ends}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Extruder}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Other}{2}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Slicers}{3}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Motion}{3}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Motherboard/Computing}{3}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Risks}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Venting}{3}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Materials}{3}{subsubsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.2}Hardware}{4}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}levelling}{4}{subsubsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.3}Misc}{4}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Important params}{4}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Extruders}{5}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Hot Ends}{5}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Speed}{5}{subsubsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.3}Slicers}{5}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Community/Support}{5}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Leveling Sensors}{5}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Motion Accuracy}{5}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Motherboard/Computing}{5}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Bed}{5}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}Addons}{5}{subsection.5.9}%

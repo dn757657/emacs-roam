@@ -1,0 +1,133 @@
+:PROPERTIES:
+:ID:       87cb0a18-5968-4d04-825c-b3c3d0a4d52f
+:END:
+#+title: foam 3d printer
+#+filetags: :spec:3d:printer:equipment:
+
+* Printers 
+** Prusa MK3s+ https://www.prusa3d.com/product/original-prusa-i3-mk3s-kit-3/
+
+*** Pros
+- known for slicer quality
+- community
+- professional level tool
+- gold stndard
+- speed
+- enclosure available
+
+*** Cons
+- long lead time 3-4 weeks
+
+** Pulse 3D Printer  https://www.matterhackers.com/store/l/pulse-3d-printer/sk/MH4C92XW?aff=7512
+** Ender 3 S1 Pro https://www.creality3dofficial.com/products/ender-3s1-pro-3d-printer
+
+* Components
+- [[id:85a8da31-132f-4bb3-83bd-46749b9997bf][leveling sensors]]
+- [[id:94ad490c-9dc4-4a1a-ad3e-77a0f61ca53d][extruders]]
+
+* Rating
+
+** Hot Ends
+| Printer | Hot End    | Max Temp. | Responsiveness/Material | Power | Options              |
+|---------+------------+-----------+-------------------------+-------+----------------------|
+| Prusa   | E3D V6     | 300C      | Alu Copper              | 30W   | up to 500C w/upgrade |
+| Ender   | Sprite Pro | 300C      | Alu                     | n/a   | n/a                  |
+| Pulse   | E3D V6     | 300C      | Alu Copper              | 30W   | up to 500C w/upgrade |
+|         |            |           |                         |       |                      |
+
+- heater materials are kind of ambiguous/not much information provided, can only assume that the copper alloy is going to be more responsive in terms of dissapating and transferring heat
+- Ender can be upgraded to E3D V6
+- just from breif googling E3D has much better documentation
+
+** Extruder
+| Printer | Drive  | Weight |
+| Prusa   | Dircet |        |
+| Ender   | Direct |        |
+| Pulse   | Bowden |        |
+
+- weight can contribute to overshoot/ringing/ is generally bad
+- TPU and other flexible filaments can be printed using a bowden setup but not easily, dirct drive certainly much better
+
+** Other
+| Printer | Levelling Sensor       | Documentation/Support | Community | Max Bed Temp | Printing Speed |
+|---------+------------------------+-----------------------+-----------+--------------+----------------|
+| Prusa   | Inductive (pinda)      | Good                  | Large     | 120C         | 80 mm/s        |
+| Ender   | Hall Effect (CR Touch) | Not Great             | Large     | 110 C        | 60 mm/s        |
+| Pulse   | Hall Effect (BL Touch) | Exists                | Exists    | 115 C        | 60 mm/s        |
+|         |                        |                       |           |              |                |
+
+- hall effect levelling sensor may be a must with garolite printing bed and TPU adhesion, induction sensor still works but added bed thickness (above metal bottom) is limited
+
+** Slicers
+- all slicers seem to be based on the same CUSA engine and are all open source
+- any slicer, since it is onyl producing G-CODE can be modified via code langauge of choice post process
+- Prusa slicer features preloaded presets for materials, etc, this is not seen as valuable in this instance as the project is using custom materials and possible slicer modificaitons
+
+** Motion
+- prusa is considered more accurate motion system, especially for small parts
+- prusa uses better bearings and not rubber wheels like ender
+
+** Motherboard/Computing
+- both prusa and pulse are 8-bit, where ender is 32-bit
+
+* Risks
+
+** Venting
+- venting is required for most printing filaments
+- nothing crazy usually a fan out the window or similar
+- highly ventilated room is also acceptbable
+
+*** Materials
+- nylon (Caverna)
+- abs
+- TPU (varioshore)
+
+** Hardware
+
+*** levelling
+- avoid inductive type leveling sensors as only works with metal bed materials, may not be suitable for filaments in mind [[id:85a8da31-132f-4bb3-83bd-46749b9997bf][leveling sensors]] 
+
+** Misc
+- delivery
+- ender hot end may not be responssive enough given aluminum only heating block
+- availability of correct bed surfaces for TPU adhesion, can also use glues on normal or glass beds
+- varioshore STARTS foaming at 230C, will 300C be enough to fully observe its properties?
+
+* Important params
+- hot end control and response - titanium for ender both up to 300 degreesC
+- motion accuracy - prusa big advantage rubber vs solid and bedding
+- extruder both good but prusa not metla
+- prusa much higher motherbord - prusa may strruggle with tough g code
+- stepper drivers similar support sensorless homing only on prusa
+- prusa lightweight bed and auto level same bed on ender but manual levelling 110 deg ender vs 120 deg prusa
+- prusa best levelling sensor
+- ender has some dumb extras like lights
+- 
+- prua much more accurate
+- both can extrude the same filaments
+- prusa 80mm/min, 60mm/min for ender
+- 
+- prusa has much better software/firmware
+- prusa specific slicer
+- 
+- prusa wins big on documentation
+
+** Extruders
+
+** Hot Ends
+
+*** Speed
+
+** Slicers
+
+** Community/Support
+
+** Leveling Sensors
+
+** Motion Accuracy
+
+** Motherboard/Computing
+
+** Bed
+
+** Addons

@@ -1,0 +1,75 @@
+% Created 2022-07-26 Tue 16:16
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage[margin=0.5in]{geometry}
+\date{\today}
+\title{courses}
+\hypersetup{
+ pdfauthor={},
+ pdftitle={courses},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 28.1 (Org mode 9.5.2)}, 
+ pdflang={English}}
+\begin{document}
+
+\section{Courses}
+Ranked in order of descending choice preference
+\label{sec:org16abd59}
+
+\subsection{Fall}
+\label{sec:org95a288e}
+\subsubsection{MENG 6040  Make: Engineering Prototypes}
+\label{sec:orgf294c5c}
+\begin{itemize}
+\item dr hubbard
+\item very pertinent to research
+\item CRN: 14639
+\item FALL
+\end{itemize}
+
+\subsubsection{BMNG 5210}
+\label{sec:orgc99bac6}
+\begin{itemize}
+\item CRN: 13289
+\item FALL
+\item highly reccomended, very interesting content
+\item Research relevant
+\end{itemize}
+
+\subsection{Winter}
+\label{sec:org95a28e}
+\subsubsection{MECH 6960: Computational Methods in Engineering}
+\label{sec:org312dffc}
+\begin{itemize}
+\item did not find in academic timetable?
+\end{itemize}
+
+\subsubsection{CSCI 6505: Machine Learning}
+\label{sec:orgf7153fc}
+\begin{itemize}
+\item may not meet preqrequisites
+\item ~could take 4150 instead~
+\item personal interest/possible research applications
+\end{itemize}
+
+\section{Honourable Mentions}
+\label{sec:orgba5cbd0}
+
+\subsection{MECH 6660   Finite-element simulation techniques}
+\label{sec:org57175ba}
+
+\subsection{MECH 6640   Robot Mechanics}
+\label{sec:org77c5808}
+\end{document}

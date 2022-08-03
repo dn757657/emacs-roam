@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Resource/Info}{1}{section.1}%
+\contentsline {section}{\numberline {2}Courses}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Fall}{1}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}BMNG 5210}{1}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}MENG 6040 Make: Engineering Prototypes}{2}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Winter}{2}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}BMNG 5230 Biomedical Signal Analysis}{2}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}CSCI 6505}{2}{subsubsection.2.2.2}%
+\contentsline {section}{\numberline {3}Honourable Mentions}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}MECH 6660 Finite-element simulation techniques}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}MECH 6640 Robot Mechanics}{2}{subsection.3.2}%
