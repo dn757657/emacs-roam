@@ -1,0 +1,6 @@
+* random slipbox
+*s si a slip box entry
+* C-c C-e for exporting includes iCalendar?
+* PC NOTES
+** pay by etransfer is discount 
+** monitors 24"
